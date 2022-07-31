@@ -17,7 +17,6 @@ function App() {
     let previousOpensArray= []
 
     // The array of the closings
-    let previousClosuresArray = []
 
     let falseIndex
 
