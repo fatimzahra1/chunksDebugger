@@ -16,7 +16,7 @@ function Form(props) {
           <label for="textarea1">Write The chunks here and i will tell you where is the first false closure </label>
         </div>
       </div>
-      <a  class="waves-effect waves-light btn" onClick={submit}>submit</a>
+      <button  class="waves-effect waves-light btn" onClick={submit}>submit</button>
     </form>
   </div>
   )
